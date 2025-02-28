@@ -66,26 +66,12 @@ const HistoryItem = styled(ListItem)(({ theme }) => ({
 
 // Collection of creative prompts
 const prompts = [
-    "Write down 10 innovative ideas for solving environmental problems.",
-    "Create a story that begins with the line: 'The door opened by itself...'",
-    "List 5 inventions that could change the way we live in 2050.",
-    "Design a new holiday and describe its traditions and significance.",
-    "Write a letter to your future self 10 years from now.",
-    "Imagine and describe a new color that doesn't exist yet.",
-    "Create a detailed plan for your dream adventure.",
-    "Write down 10 ideas for making education more engaging and effective.",
-    "Design a new sport that combines elements of three existing sports.",
-    "Describe a day in the life of someone living on Mars in 2100.",
-    "Create a new recipe using only ingredients that are blue.",
-    "Write a manifesto for a movement that promotes creativity.",
-    "Design a solution for a common everyday problem no one talks about.",
-    "Create a new musical instrument and describe how it would sound.",
-    "Write down 10 ways to make your city more sustainable and livable.",
-    "Invent a new profession that might exist in 50 years.",
-    "Design a garden that appeals to all five senses.",
-    "Create a new board game concept and its rules.",
-    "Write a short story using only dialogue between two characters.",
-    "Design a new type of transportation for the future."
+    "Write down 10 ideas for things you would like to learn this year.",
+    "Think of a decision you made recently and describe the process of making it. What were the factors that influenced your choice?",
+    "Describe a time when you were able to overcome a significant challenge. What did you learn from the experience?",
+    "What is one thing you've always wanted to try but haven't had the courage to do? Write down your thoughts on why you haven't tried it yet.",
+    "Write down 10 things you're grateful for in your life right now.",
+    "What is a skill or hobby you've always wanted to learn? Write down your thoughts on why you haven't started yet."
 ];
 
 function App() {
